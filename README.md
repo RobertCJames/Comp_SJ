@@ -1,1 +1,1 @@
-# Comp_SJ
+# Computational Social Justice
